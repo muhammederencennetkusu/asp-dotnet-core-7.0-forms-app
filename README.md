@@ -9,17 +9,7 @@ This project is a forms application developed using ASP.NET Core 7.0. The applic
 - **Data Submission**: Users can submit forms to the server.
 - **Responsive Design**: The application is designed to work seamlessly across different devices.
 
-## Table of Contents
 
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Contributing](#contributing)
-4. [License](#license)
-5. [Contact](#contact)
-
-## Installation
-
-To run the project on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
